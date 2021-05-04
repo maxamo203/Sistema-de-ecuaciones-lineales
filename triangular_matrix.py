@@ -97,5 +97,5 @@ for j in range(len(matriz)):
             matriz[j][a] = str(matriz[j][a])
 print(np.array(matriz))
 print(sol)
-
+input("pulsa una tecla para salir")
     
